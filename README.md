@@ -4,7 +4,7 @@ This is my sample project demonstrating my RxRepository pattern for the Nashvill
 
 ## Getting Started
 
-To run this app, you’ll need to create an account with [OpenWeatherMap](https://openweathermap.org/api).  Put your API key in a file named Keys.plist in the RxRepository folder.  If you don’t the app will deliberately crash when attempting to make a network request.
+To run this app, you’ll need to create an account with [OpenWeatherMap](https://openweathermap.org/api).  Make a file named Keys.plist in the RxRepository folder and put your API key there under the key WeatherAPIKey.  If you don’t the app will deliberately crash when attempting to make a network request.
 
 ## License
 
